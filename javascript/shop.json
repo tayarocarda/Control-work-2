@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "title": "Розы",
+    "vendor_code": "111",
+    "description": "Красивый букет свежих, ярких роз, элегантно оформленных пышной зеленой листвой",
+    "price": 1500,
+    "img": "https://www.roza4u.ru/image/cache/catalog/buket-extreme-hydrangea/rozovyj-buket-roz-i-alstromerij-1400x1400.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Тюльпаны",
+    "vendor_code": "222",
+    "description": "Тонкие стебли, украшенные нежными чашеобразными цветами, создают поразительную демонстрацию сезонной красоты",
+    "price": 1200,
+    "img": "https://buketn.ru/wp-content/uploads/2021/04/%D0%A2%D1%8E%D0%BB%D1%8C%D0%BF%D0%B0%D0%BD-%D0%94%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%91%D1%83%D0%BA%D0%B5%D1%82-%E2%84%9691.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Пионы",
+    "vendor_code": "333",
+    "description": "Пышный и ароматный букет пионов, украшенный нежными гофрированными лепестками розового, белого и малинового оттенков",
+    "price": 1800,
+    "img": "https://dostavkatsvetov.ru/upload/resize_cache/iblock/367/460_460_1/367e6d6f7b72beba4a1f01cbdd2ce396.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Ромашки",
+    "vendor_code": "444e",
+    "description": "Очаровательный букет ромашек, излучающий ощущение простой элегантности и естественной красоты",
+    "price": 1000,
+    "img": "https://static-eu.insales.ru/images/products/1/1190/174130342/romashki-big-1.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Незабудки",
+    "vendor_code": "4445e",
+    "description": "Нежный букет незабудок с гроздьями маленьких небесно-голубых цветов вызывает чувство нежного воспоминания",
+    "price": 800,
+    "img": "https://million-buketov.ru/d/nezabudki-v-bukete-25.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Хризантемы",
+    "vendor_code": "4446e",
+    "description": "Обилие нежных лепестков создает потрясающее зрелище, излучающее ощущение элегантности и очарования",
+    "price": 900,
+    "img": "https://th.bing.com/th/id/R.d5f266ee80d1e998d9886d27782a4412?rik=0lSrxbD31JqUOg&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "7",
+    "title": "Герберы",
+    "vendor_code": "4447e",
+    "description": "Космические легенсы 2014",
+    "price": 600,
+    "img": "https://za-buketom.ru/thumb/2/pa4WcjH5PldpGdKx_Nkhuw/r/d/96585949_284761322546727_3707363579298559070_n.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Лилии",
+    "vendor_code": "4448e",
+    "description": "Легендарный кот (стикер)",
+    "price": 1400,
+    "img": "Каждый стебель несет в себе ощущение безмятежности и чистоты, создавая изящную и вневременную композицию"
+  },
+  {
+    "id": "9",
+    "title": "Подсолнухи",
+    "vendor_code": "444e",
+    "description": "Яркий букет подсолнухов излучает тепло и радость, его золотые лепестки тянутся к солнцу",
+    "price": 1700,
+    "img": "https://million-buketov.ru/d/podsolnuhi-buket-29.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Гвоздики",
+    "vendor_code": "44410e",
+    "description": "Легендарная кепка",
+    "price": 1300,
+    "img": "https://kamelia-tver.ru/wp-content/uploads/2020/11/kompozitsiya-1181-2-scaled.jpeg"
+  },
+  {
+    "id": "11",
+    "title": "Орхидеи",
+    "vendor_code": "44411e",
+    "description": "Потрясающий букет орхидей с нежными, яркими цветами, изящно расположенными, излучающими элегантность и красоту",
+    "price": 2000,
+    "img": "https://flowershopcats.ru/d/snimok_ekrana_2021-04-22_v_231042.png"
+  },
+  {
+    "id": "12",
+    "title": "Ирисы",
+    "vendor_code": "44411e",
+    "description": "Потрясающий букет ирисов ярких оттенков фиолетового, синего и белого цветов с нежными лепестками в форме меча и чарующим ароматом",
+    "price": 1900,
+    "img": "https://flor2u.ru/images/uploads/conversion/501/5017bcb3454c0eddf811baffbbf77c39/5017bcb3454c0eddf811baffbbf77c39-flor.detail.gallery.jpg"
+  }
+]
