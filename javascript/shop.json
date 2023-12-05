@@ -30,8 +30,7 @@
     "description": "Очаровательный букет ромашек, излучающий ощущение простой элегантности и естественной красоты",
     "price": 1000,
     "img": "https://static-eu.insales.ru/images/products/1/1190/174130342/romashki-big-1.jpg"
-  }
-  ,
+  },
   {
     "id": "5",
     "title": "Незабудки",
@@ -71,8 +70,7 @@
     "description": "Яркий букет подсолнухов излучает тепло и радость, его золотые лепестки тянутся к солнцу",
     "price": 1700,
     "img": "https://million-buketov.ru/d/podsolnuhi-buket-29.jpg"
-  }
-  ,
+  },
   {
     "id": "10",
     "title": "Гвоздики",
